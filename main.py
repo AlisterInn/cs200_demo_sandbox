@@ -25,7 +25,7 @@ def func2(data):
             return
 
 def main():
-    print("Hello, World!")
+    print("Hello, to the world!")
     data = func1()
     func2(data)
 
